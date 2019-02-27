@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Linear()
+comment1.params=a\ b\ c\ d
+comment1.target=float\ det(float,\ float,\ float,\ float)
+comment2.params=a\ b\ c\ d\ e\ f\ g\ h\ i
+comment2.target=float\ det(float,\ float,\ float,\ float,\ float,\ float,\ float,\ float,\ float)
+comment3.params=i
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=a
+comment4.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

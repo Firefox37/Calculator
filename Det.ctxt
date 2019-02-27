@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Det()
+comment1.params=i
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment10.params=ae
+comment10.target=void\ windowOpened(java.awt.event.WindowEvent)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=a\ b\ c\ d\ e\ f\ g\ h\ i
+comment2.target=float\ calcu(float,\ float,\ float,\ float,\ float,\ float,\ float,\ float,\ float)
+comment3.params=i
+comment3.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+comment4.params=ae
+comment4.target=void\ windowActivated(java.awt.event.WindowEvent)
+comment5.params=ae
+comment5.target=void\ windowClosed(java.awt.event.WindowEvent)
+comment6.params=ae
+comment6.target=void\ windowDeactivated(java.awt.event.WindowEvent)
+comment7.params=ae
+comment7.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment8.params=ae
+comment8.target=void\ windowDeiconified(java.awt.event.WindowEvent)
+comment9.params=ae
+comment9.target=void\ windowIconified(java.awt.event.WindowEvent)
+numComments=12
